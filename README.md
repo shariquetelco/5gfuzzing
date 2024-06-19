@@ -1,6 +1,6 @@
 # RAN 5G Fuzzing
 
-## ahmda@eurecom.fr
+## ahmad@eurecom.fr
 
 ## IABG
 
